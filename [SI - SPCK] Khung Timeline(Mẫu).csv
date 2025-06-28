@@ -1,0 +1,75 @@
+﻿TIMELINE DỰ ÁN,,,,
+STT,Tên học viên,Nguyễn Văn A,,Ghi chú
+,Ý tưởng dự án,"Dự án ""Chinh phục Vũ Môn"".
+
+Thông điệp của dự án: Dự án Chinh phục Vũ Môn dạy chúng ta bài học về sự cố gắng và kiên trì. Cá chép phải bơi ngược dòng nước mạnh, vượt qua những thử thách khó khăn để hóa thành rồng. Điều này giống như khi chúng ta chăm chỉ học tập hay làm việc, dù có khó khăn đến đâu, nếu cố gắng hết mình, chúng ta sẽ đạt được thành công. Câu chuyện còn muốn nói rằng, ai cố gắng không ngừng sẽ nhận được điều tốt đẹp và may mắn trong cuộc sống
+
+Mô tả dự án: Người chơi điều khiển nhân vật chính bằng chuyển động của cổ (hoặc các phím điều hướng), di chuyển tránh các chướng ngại vật và nhặt nhiều ngôi sao trên đường di chuyển. Trong trò chơi sẽ có thêm các chức năng:
+- Tốc độ di chuyển của tất cả nhân vật sẽ tăng dần dựa trên điểm số.
+- Hiển thị điểm số thông qua nhân vật
+- Hiển thị lượng HP thông qua nhân vật
+- Hiệu ứng ẩn nhân vật, xoá bản sao
+- Hiệu ứng di chuyển (animation) cho nhân vật
+- Ghi nhận điểm số và giao diện kết thúc",,
+1,"Buổi 2
+Ý tưởng","Xác định ý tưởng cho dự án (Điền vào mục ""Ý tưởng dự án"")",Hoàn thành, 
+2,,"Mô tả thông điệp của dự án (Điền vào mục ""Ý tưởng dự án"")",Hoàn thành,
+3,,"Mô tả ý tưởng cho dự án (Điền vào mục ""Ý tưởng dự án"")",Hoàn thành,
+4,,"Mô tả các chức năng đi kèm trong dự án (Điền vào mục ""Ý tưởng dự án"")",Hoàn thành,
+5,,Xây dựng timeline từng buổi học cho dự án ,Hoàn thành,
+6,"Buổi 3
+Tài nguyên",Lên kế hoạch cho các tài nguyên cần có cho dự án,Chưa hoàn thành, 
+7,,Tìm kiếm các tài nguyên cho dự án ,Chưa hoàn thành,
+8,,Sử dụng công cụ AI để xây dựng các tài nguyên không có sẵn trên Internet,Chưa hoàn thành,
+9,,Thực hiện tự thiết kế các tài nguyên không có sẵn trên Internet,Chưa hoàn thành,
+10,,Thực hiện thêm các tài nguyên vào dự án,Chưa hoàn thành,
+11,"Buổi 4
+Giao diện ",Phác thảo sơ đồ giao diện cho dự án của em,Chưa hoàn thành, 
+12,,"Thiết lập vị trí cho các thành phần cơ bản trên giao diện Guide, Setting, ...",Chưa hoàn thành,
+13,,Khởi tạo các tin nhắn cần thiết cho giao diện,Chưa hoàn thành,
+14,,Thực hiện lập trình cho giao diện điều hướng (Giao diện Menu),Chưa hoàn thành,
+15,,"Thực hiện tạo hiệu ứng hover, clicked cho các nút trên giao diện điều hướng",Chưa hoàn thành,
+16,,Thực hiện lập trình cho tắt/mở giao diện cài đặt (Giao diện Setting),Chưa hoàn thành,
+17,,Thực hiện lập trình cho tắt/mở giao diện hướng dẫn (Giao diện Guide,Chưa hoàn thành,
+18,,Thực hiện lập trình cho tắt/mở giao diện chính của trò chơi (Giao diện Play),Chưa hoàn thành,
+19,"Buổi 6
+Nhân vật chính",Lập trình ẩn/hiện nhân vật chính dựa trên thứ tự giao diện ,Chưa hoàn thành, 
+20,,Lập trình điều khiển nhân vật theo các phím điều hướng,Chưa hoàn thành,
+21,,Lập trình tạo hiệu ứng vẫy đuôi cho nhân vật chính,Chưa hoàn thành,
+22,,Lập trình giới hạn di chuyển của nhân vật chính khi di chuyển sang 2 cạnh,Chưa hoàn thành,
+23,,Lập trình tạo hiệu ứng bất tử cho nhân vật chính.,Chưa hoàn thành,
+24,,Cập nhật Timeline với việc bổ sung tính năng Text to Speech,Chưa hoàn thành,
+25,"Buổi 7
+Chướng ngại vật",Lập trình ẩn/hiện chướng ngại vật dựa trên thứ tự giao diện,Chưa hoàn thành, 
+26,,Lập trình xác định vị trí xuất hiện ngẫu nhiên trên 3 dòng,Chưa hoàn thành,
+27,,Lập trình xác định với nhân vật chính và kết thúc đường di chuyển.,Chưa hoàn thành,
+28,,Lập trình tạo hiệu ứng ẩn nhân vật,Chưa hoàn thành,
+29,,Cập nhật Timeline với việc bổ sung hiệu ứng phá huỷ,Chưa hoàn thành,
+30,"Buổi 8
+Ngôi sao",Lập trình ẩn/hiện ngôi sao dựa trên thứ tự giao diện,Chưa hoàn thành, 
+31,,Lập trình xác định vị trí xuất hiện ngẫu nhiên trên 3 dòng,Chưa hoàn thành,
+32,,Lập trình xác định với nhân vật chính và kết thúc đường di chuyển.,Chưa hoàn thành,
+33,,Lập trình tạo hiệu ứng ẩn nhân vật,Chưa hoàn thành,
+34,,Cập nhật Timeline với việc bổ sung hiệu ứng bắt đầu - kết thúc dự án,Chưa hoàn thành,
+35,"Buổi 10
+Xử lý phông nền",Lập trình ẩn/hiện nhân vânt phông nền dựa trên thứ tự giao diện,Chưa hoàn thành, 
+36,,Lập trình cho phông nền di chuyển từ cạnh trên xuống cạnh dưới của màn hình,Chưa hoàn thành,
+37,,Thực hiện tạo bản sao tạo hiệu ứng phông nền nối tiếp,Chưa hoàn thành,
+38,,Thực hành lập trình xử lý lớp hiển thị cho nhân vật phông nền,Chưa hoàn thành,
+39,,"Thực hành xử lý tốc độ di chuyển của nhân vật phông nền thông qua biến ""speed""",Chưa hoàn thành,
+40,"Buổi 11
+Xử lý biến",Lập trình tăng giá trị của biến Score khi chướng ngại vật di chuyển hết hành trình,Chưa hoàn thành, 
+41,,Lập trình hiển thị giá trị của biến Score thông qua nhân vật,Chưa hoàn thành,
+42,,Lập trình tăng giá trị của biến HP khi nhân vật chính va chạm với ngôi sao,Chưa hoàn thành,
+43,,Lập trình giảm giá trị của biến HP khi nhân vật chính va chạm với chướng ngại vật,Chưa hoàn thành,
+44,,Lập trình hiển thị gái trị của biến HP thông qua nhân vật,Chưa hoàn thành,
+45,,Lập trình giới hạn biến HP với mức tối đa là 4,Chưa hoàn thành,
+46,"Buổi 12
+Giao diện kết thúc",Lập trình nhận sự kiện kết thúc trò chơi,Chưa hoàn thành, 
+47,,Lập trình ghi nhận tên của người chơi khi kết thúc trò chơi,Chưa hoàn thành,
+48,,Lập trình thêm tên và điểm vào danh sách điểm số,Chưa hoàn thành,
+49,,Lập trình hiển thị trở lại giao diện Menu để tiếp tục bắt đầu trò chơi,Chưa hoàn thành,
+50,"Buổi 13
+Bài trình chiếu",Thực hiện xây dựng bài trình chiếu,Chưa hoàn thành, 
+51,,Thực hiện thuyết trình thử,Chưa hoàn thành,
+52,,Hoàn thiện và đóng gói dự án,Chưa hoàn thành,
